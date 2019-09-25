@@ -6,8 +6,7 @@ public class Dato {
 	private Object data;
 
     public Dato() {
-    }
-        
+    }      
         
 
 	public Dato(String id, Object data) {
